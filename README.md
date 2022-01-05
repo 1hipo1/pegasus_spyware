@@ -2,7 +2,7 @@
 ## Author: Jonathan Scott @jonathandata1    
 ### CURRENT VERSION 3.5
 
-## About Jonathan Scott
+## About Jonathan Scott!
 
 > My name is Jonathan Scott, and I'm an American Security Researcher. I am currently a computer science PhD student at North Central University. My research focus is mobile spyware. I have been a mobile security engineer for ~13 years. 
 
